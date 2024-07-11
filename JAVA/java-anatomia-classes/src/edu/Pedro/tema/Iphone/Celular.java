@@ -15,7 +15,7 @@ public class Celular {
 
         System.out.println("Funções de ligação:");
         System.out.println("--------------------------------------");
-        ios.ligar("11984927668");
+        ios.ligar("11944327268");
         ios.atender();
         ios.iniciarCorreioVoz();
         System.out.println(" ");
