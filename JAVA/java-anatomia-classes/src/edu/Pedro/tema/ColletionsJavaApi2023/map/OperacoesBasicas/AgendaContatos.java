@@ -1,4 +1,4 @@
-package edu.Pedro.tema.ColletionsJavaApi2023.map;
+package edu.Pedro.tema.ColletionsJavaApi2023.map.OperacoesBasicas;
 
 import java.util.HashMap;
 import java.util.Map;
